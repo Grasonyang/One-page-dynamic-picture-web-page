@@ -1,0 +1,110 @@
+{
+    "header": {
+        "logo": {
+            "logo_text": "Rolex Piguet",
+            "generate": "watch logo",
+            "type": "text2img",
+            "img": ""
+        },
+        "navbar": [
+            {
+                "link_text": "Slogon",
+                "generate": "Slogon logo",
+                "type": "text2img",
+                "img": ""
+            },
+            {
+                "link_text": "Goal Vision",
+                "generate": "Goal Vision logo",
+                "type": "text2img",
+                "img": ""
+            },
+            {
+                "link_text": "Brand Story",
+                "generate": "Brand Story logo",
+                "type": "text2img",
+                "img": ""
+            },
+            {
+                "link_text": "About Us",
+                "generate": "About Us logo",
+                "type": "text2img",
+                "img": ""
+            }
+        ]
+    },
+    "main": {
+        "a1": {
+            "img": {
+                "link_text": "Rolex Piguet",
+                "generate": "watch logo",
+                "type": "text2img",
+                "img": ""
+            }
+        },
+        "a2": {
+            "img": {
+                "link_text": "Future target",
+                "generate": "future target, stair, dark",
+                "type": "text2img",
+                "img": ""
+            }
+        },
+        "a3": {
+            "img": [
+                {
+                    "link_text": "Watch",
+                    "generate": "Watch I, star, dark",
+                    "type": "text2img",
+                    "img": ""
+                },
+                {
+                    "link_text": "Watch",
+                    "generate": "Watch II, sun, light",
+                    "type": "text2img",
+                    "img": ""
+                },
+                {
+                    "link_text": "Watch",
+                    "generate": "Watch III, rainbow",
+                    "type": "text2img",
+                    "img": ""
+                },
+                {
+                    "link_text": "Watch",
+                    "generate": "Watch IV, All good watch combine",
+                    "type": "text2img",
+                    "img": ""
+                }
+            ]
+        },
+        "footer": {
+            "about_us": [
+                {
+                    "link_text": "Facebook",
+                    "generate": "Facebook logo",
+                    "type": "text2img",
+                    "img": ""
+                },
+                {
+                    "link_text": "Instergram",
+                    "generate": "Instergram logo",
+                    "type": "text2img",
+                    "img": ""
+                },
+                {
+                    "link_text": "telegram",
+                    "generate": "telegram logo",
+                    "type": "text2img",
+                    "img": ""
+                },
+                {
+                    "link_text": "Twitter",
+                    "generate": "Twitter logo",
+                    "type": "text2img",
+                    "img": ""
+                }
+            ]
+        }
+    }
+}
