@@ -10,4 +10,4 @@
 ![生成圖片 watch](image.png)
 * * *
 > update web model in client
-> update token in client/all.json
+>> update token in client/all.json
