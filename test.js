@@ -3,7 +3,7 @@ const chrome = require('selenium-webdriver/chrome');
 
 (async function example() {
     let chromeOptions = new chrome.Options();
-    chromeOptions.addArguments('--ignore-certificate-errors'); // 忽略证书错误
+    chromeOptions.addArguments('--ignore-certificate-errors');
     let driver = await new Builder()
         .forBrowser(Browser.CHROME)
         .setChromeOptions(chromeOptions)
@@ -15,9 +15,9 @@ const chrome = require('selenium-webdriver/chrome');
         let switch_email = await driver.wait(until.elementLocated(By.id('switch-to-email')));
         await switch_email.click();
         let email = await driver.wait(until.elementLocated(By.id('user-email')));
-        await email.sendKeys("grasonyang@gmail.com");
+        await email.sendKeys("?????????????"); // mail
         let pwd = await driver.wait(until.elementLocated(By.id('user-password')));
-        await pwd.sendKeys("Aa035181510");
+        await pwd.sendKeys("??????????"); // password
         let login = await driver.wait(until.elementLocated(By.id('login-via-email-id')));
         await login.click();
         let generate_text = "milk";
