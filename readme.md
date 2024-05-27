@@ -9,5 +9,5 @@
 ### Example
 ![生成圖片 watch](image.png)
 * * *
-> update web model in client
+> update web template in client
 >> update token in client/all.json
