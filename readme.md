@@ -7,4 +7,4 @@
 5. you can get a sample one page web
 * * *
 ### Example
-![生成圖片 watch]("./image.png")
+![生成圖片 watch]("image.png")
