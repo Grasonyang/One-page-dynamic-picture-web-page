@@ -1,4 +1,4 @@
-### how to use it
+### How to use it
 0. install node js
 1. ```npm init -y```
 2. ```npm install sharp```
@@ -8,3 +8,6 @@
 * * *
 ### Example
 ![生成圖片 watch](image.png)
+* * *
+> update web model in client
+> update token in client/all.json
