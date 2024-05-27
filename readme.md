@@ -1,5 +1,5 @@
 ### how to use it
-0. install node js
+0. ```install node js```
 1. npm init -y
 2. npm install sharp
 3. get huggin face token
